@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Training\CNCF_Training\junit_labs\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3803894794.index
+2219024977.index
+693645082.index
+3025504820.index
+2834007523.index
+1886812173.index
+2581017966.index

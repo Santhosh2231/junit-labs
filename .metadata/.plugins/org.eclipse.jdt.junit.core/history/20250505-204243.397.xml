@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BankAccountTest" project="TDDWorkshop" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.oracle.training.dayone.BankAccountTest" time="0.022" displayname="BankAccountTest" uniqueid="[engine:junit-jupiter]/[class:com.oracle.training.dayone.BankAccountTest]">
+    <testcase name="testInitialBalance" classname="com.oracle.training.dayone.BankAccountTest" time="0.022" displayname="testInitialBalance()" uniqueid="[engine:junit-jupiter]/[class:com.oracle.training.dayone.BankAccountTest]/[method:testInitialBalance()]"/>
+  </testsuite>
+</testrun>

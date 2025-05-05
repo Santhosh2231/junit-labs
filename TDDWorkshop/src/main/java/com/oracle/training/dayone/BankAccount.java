@@ -3,6 +3,7 @@ package com.oracle.training.dayone;
 public class BankAccount {
 	private String accountNumber;
     private double balance;
+    private String accountType;
 
     public BankAccount(String accountNumber, double balance) {
         this.accountNumber = accountNumber;
