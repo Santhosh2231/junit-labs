@@ -349,3 +349,5 @@
 2025-05-05 20:45:44,709 [Worker-4: Launching Executing test in C__Training_CNCF_Training_junit_labs_TDDWorkshop] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Training\CNCF_Training\junit_labs\TDDWorkshop":
 2025-05-05 20:45:44,709 [Worker-4: Launching Executing test in C__Training_CNCF_Training_junit_labs_TDDWorkshop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always test
 2025-05-05 21:26:45,434 [Worker-52: Compute Mappings for project TDDWorkshop] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oracle.training.dayone:TDDWorkshop:0.0.1-SNAPSHOT @ C:\Training\CNCF_Training\junit_labs\TDDWorkshop\pom.xml.
+2025-05-05 21:45:01,681 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Training\CNCF_Training\junit_labs\TDDWorkshop\src\main\resources
+2025-05-05 21:45:01,684 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Training\CNCF_Training\junit_labs\TDDWorkshop\src\test\resources
